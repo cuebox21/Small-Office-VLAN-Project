@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-Project consists of a designed and configured segmented small-office network simulating a company with three departments, each isolated on its own VLAN while sharing a single routed gateway. The Word Doc entitled "Small Office VLAN Project.docx" covers in depth implementation of the network and its devices.
+Project consists of a designed and configured segmented small-office network simulating a company with three departments, each isolated on its own VLAN while sharing a single routed gateway with basic security implemented such as access control lists that limit staff pcs from pinging management, unused port disabling and port security. The Word Doc entitled "Small Office VLAN Project.docx" covers in depth implementation of the network and its devices.
 <br />
 
 
@@ -18,29 +18,22 @@ Office Layout <br/>
 <img src="https://imgur.com/rytqFFc.png" height="80%" width="80%"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Port Security  <br/>
+<img src="https://imgur.com/1jGsgCa.png" height="80%" width="80%">
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Unused Ports Disabling <br/>
+<img src="https://i.imgur.com/ihAZqS0.png" height="80%" width="80%">
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Implementing Access Control list on Router:  <br/>
+<img src="https://i.imgur.com/I5hXst4.png" height="80%" width="80%">
+ <br />
+<br />
+ Attempting to ping Management PC from Staff PC and being Deined due to Acces Control List  <br/>
+<img src="https://i.imgur.com/lsk4yJn.png" height="80%" width="80%">
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 
 <!--
  ```diff
