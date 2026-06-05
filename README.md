@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-Project consists of a designed and configured segmented small-office network simulating a company with three departments, each isolated on its own VLAN while sharing a single routed gateway with basic security implemented such as access control lists that limit staff pcs from pinging management, unused port disabling and port security. The Word Doc entitled "Small Office VLAN Project.docx" covers in depth implementation of the network and its devices.
+Project consists of a designed and configured segmented small-office network simulating a company with three departments, each isolated on its own VLAN while sharing a single routed gateway with basic security implemented such as access control lists that limit staff pcs from pinging management pcs, unused port disabling and port security. The Word Doc entitled "Small Office VLAN Project.docx" covers in depth implementation of the network and its devices.
 <br />
 
 
